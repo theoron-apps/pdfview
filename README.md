@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/edit.jpg" width="900" alt="pdfview in markup mode with the tool palette and inspector">
+  <img src="assets/edit-en.jpg" width="900" alt="pdfview in markup mode with the tool palette and inspector">
 </p>
 
 ---
@@ -38,7 +38,7 @@
 - Works offline. The only network request is the update check, and it can be turned off.
 
 <p align="center">
-  <img src="assets/read.jpg" width="900" alt="pdfview in reading mode">
+  <img src="assets/read-en.jpg" width="900" alt="pdfview in reading mode">
 </p>
 
 ## Install
